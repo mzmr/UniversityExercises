@@ -1,6 +1,6 @@
 %% @author Maciej Znamirowski
 
--module(various).
+-module(lab01).
 
 -export([area/1, volume/1, len/1, amin/1, amax/1,
 		 tuple_min_max/1, list_min_max/1, areas/1,
